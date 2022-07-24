@@ -76,10 +76,10 @@ _At this moment I'm trying GraphQL with ASP.net Core, and thinking of testing ou
 
 - Because of the struggle in figuring things out on my own, led me to shifting from the .net to php as the community is large and you can easily find solutions to your problems or open-sourced app as explained by a friend but back to it again.
 
-- 
+<!--
 
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chimexGitHub)](https://github.com/chimexGitHub)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimexGitHub&layout=compact&langs_count=10)](https://github.com/chimexGitHub)
-
+-->
