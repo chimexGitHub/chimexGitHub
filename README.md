@@ -72,9 +72,11 @@ _At this moment I'm trying GraphQL with ASP.net Core, and thinking of testing ou
 
 - for the record, I think and dispel insights that are revealational and cause shifts with help from the Holy Spirit :)
 
-- I tried to build windows application that fits the screen when the maximize button is clicked and I was successful at that after countless efforts and wondering while about 97% of people/companies do not apply it in their applications except Microsoft and a few, wondering if it was only known by them.
+- I tried to build windows applications that fits the screen when the maximize button is clicked and I was successful at that after countless efforts, I was wondering while about 97% of people/companies do not apply it in their applications except Microsoft and a few, wondering if it was only known by them as other people/companies couldn't figure out how to achieve that little thing.
 
-- Because of the struggle in figuring things out on my own, led me to shifting from the .net to php as the community is large and you can easily find solutions to your problems or open-sourced app as explained by a friend but back to it again.
+- whenever windows application were deployed, it doesn't work smoothly on the deployed system except it has visual studio installed, that was a problem also and none in my entire school had a solution to that, I was able to get past that hurdle and I felt good about it.
+
+- Because of the struggle in figuring things out on my own, led me to shifting from the .net to php as the community is large and you can easily find solutions to your problems or open-sourced app as explained by a friend and the singing their praises but I am back to it again(EVERYTHING dotnet😘😊).
 
 <!--
 
