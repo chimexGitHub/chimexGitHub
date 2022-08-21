@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 ## About Me 
 
-🤵 Software engineer with +5 years of experience (first job in ~2012), check out my [LinkedIn](https://linkedin.com/okekechimezieglory) or [CV](https://drive.google.com/drive/u/1/folders/) or [Portfolio] for more professional information.
+🤵 Software engineer with +5 years of experience (first job in ~2012), check out my [LinkedIn](https://linkedin.com/okekechimezieglory) or [CV](https://drive.google.com/file/d/1qEh7xj58phC4DnlchxmTReNbzk19kVPh/view?usp=sharing) or [Portfolio] for more professional information.
 
-I'm a persistent hardhead (I'll try again and again, until I succeed!), **natural saver**, proactive, challenge lover, bug hunter, keyboard banger, father of many like father Abraham (🔥🧊), pencil and paint artist, lover of poetry and spoken word, a poet as well. 🍨
+I'm a persistent hardhead (I'll try again and again, until I succeed!), **natural saver**, proactive, challenge lover, bug hunter, keyboard banger, father of many like father Abraham (🔥🧊), pencil and paint artist, lover of poetry and spoken word, a poet as well as Christ is one. 🍨
 
  These little pieces of text have the power to transcend my own existence 😵
 
-**💼 Work:** Software Engineer at [Lloydant](https://www.lloydant.com/)/ (I.T sector) and Co-founder at the [Ecoleville](https://www.ecoleville.com/) (E-learning platform) 😵
+**💼 Work:** Software Engineer at [Lloydant](https://www.lloydant.com/)/ (I.T sector) .😵
 
-**🛠 Skills:** My key languages are **C#**, **PHP** and **Python**. On a daily basis I architect with web Apps, REST APIs, tests, general optimizations and learning. About storage/messages, I'm normally using Microsoft SQL Server, PostgreSQL, MySQL, SQLite.
+**🛠 Skills:** My key languages are **C#**, **Python** and **PHP**. On a daily basis I architect with web Apps, REST APIs, tests, general optimizations and learning. About storage/messages, I'm normally using Microsoft SQL Server, PostgreSQL, MySQL, SQLite.
 
 _At this moment I'm trying GraphQL with ASP.net Core, and thinking of testing out NextJs and React._
 
@@ -76,7 +76,7 @@ _At this moment I'm trying GraphQL with ASP.net Core, and thinking of testing ou
 
 - whenever windows application were deployed, it doesn't work smoothly on the deployed system except it has visual studio installed, that was a problem also and none in my entire school had a solution to that, I was able to get past that hurdle and I felt good about it.
 
-- Because of the struggle in figuring things out on my own, led me to shifting from the .net to php as the community is large and you can easily find solutions to your problems or open-sourced app as explained by a friend and the singing their praises but I am back to it again(EVERYTHING dotnet😘😊).
+- Because of the struggle in figuring things out on my own, led me to shifting from the .net to php as the community is large and you can easily find solutions to your problems or open-sourced apps as explained by a friend and the singing of their praises or maybe blowing their trumpets but I am back to .NET again(EVERYTHING dotnet😘😊), not dropping it.
 
 <!--
 
