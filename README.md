@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ## About Me 
 
-🤵 Software engineer with +5 years of experience (first job in ~2012), check out my [LinkedIn](https://linkedin.com/okekechimezieglory) or [CV](https://drive.google.com/file/d/1qEh7xj58phC4DnlchxmTReNbzk19kVPh/view?usp=sharing) or [Portfolio] for more professional information.
+🤵 Software engineer with +7 years of experience (first job in ~2012), check out my [LinkedIn](https://linkedin.com/okekechimezieglory) or [CV](https://drive.google.com/file/d/1qEh7xj58phC4DnlchxmTReNbzk19kVPh/view?usp=sharing) or [Portfolio] for more professional information.
 
 I'm a persistent hardhead (I'll try again and again, until I succeed!), **natural saver**, proactive, challenge lover, bug hunter, keyboard banger, father of many like father Abraham (🔥🧊), pencil and paint artist, lover of poetry and spoken word, a poet as well as Christ is one. 🍨
 
  These little pieces of text have the power to transcend my own existence 😵
 
-**💼 Work:** Software Engineer at [Lloydant](https://www.lloydant.com/)/ (I.T sector) .😵
+**💼 Work:** Software Engineer at [Lloydant](https://www.lloydant.com/)/ (EduTech sector) .😵
 
 **🛠 Skills:** My key languages are **C#**, **Python** and **PHP**. On a daily basis I architect with web Apps, REST APIs, tests, general optimizations and learning. About storage/messages, I'm normally using Microsoft SQL Server, PostgreSQL, MySQL, SQLite.
 
