@@ -26,7 +26,7 @@ I'm a persistent hardhead (I'll try again and again, until I succeed!), **natura
 
 **🛠 Skills:** My key languages are **C#**, **Python** and **PHP**. On a daily basis I architect with web Apps, REST APIs, tests, general optimizations and learning. About storage/messages, I'm normally using Microsoft SQL Server, PostgreSQL, MySQL, SQLite.
 
-_At this moment I'm trying GraphQL with ASP.net Core, and thinking of testing out NextJs and React._
+_At the moment I'm trying GraphQL with ASP.net Core, and already testing out Angular, NextJs and React._
 
 **⌛ Past:** VB.net, Laravel, a bit of Java, jQuery, VueJS and dead tech.
 
