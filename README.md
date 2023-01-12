@@ -22,7 +22,7 @@ I'm a persistent hardhead (I'll try again and again, until I succeed!), **natura
 
  These little pieces of text have the power to transcend my own existence 😵
 
-**💼 Work:** Software Engineer at [Lloydant](https://www.lloydant.com/)/ (EduTech sector) .😵
+**💼 Work:** Software Engineer at [Lloydant](https://www.lloydant.com/)
 
 **🛠 Skills:** My key languages are **C#**, **Python** and **PHP**. On a daily basis I architect with web Apps, REST APIs, tests, general optimizations and learning. About storage/messages, I'm normally using Microsoft SQL Server, PostgreSQL, MySQL, SQLite.
 
