@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 ## About Me 
 
-🤵 Software engineer with +7 years of experience (first job in ~2012), check out my [LinkedIn](https://linkedin.com/okekechimezieglory) or [CV](https://drive.google.com/file/d/1qEh7xj58phC4DnlchxmTReNbzk19kVPh/view?usp=sharing) or [Portfolio] for more professional information.
+🤵 Software engineer with +7 years of experience (first job in ~2012), check out my [LinkedIn](https://linkedin.com/okekechimezieglory) or [CV](https://drive.google.com/file/d/1qEh7xj58phC4DnlchxmTReNbzk19kVPh/view?usp=sharin) or [Portfolio] for more professional information.
 
 I'm a persistent hardhead (I'll try again and again, until I succeed!), **natural saver**, proactive, challenge lover, bug hunter, keyboard banger, father of many like father Abraham (🔥🧊), pencil and paint artist, lover of poetry and spoken word, a poet as well as Christ is one. 🍨
 
  These little pieces of text have the power to transcend my own existence 😵
 
 **💼 Work:** Software Engineer at [Lloydant](https://www.lloydant.com/)
+
+**🛠 Certification:** ALX-T Full Stack Developer [Udacity Nanodegree Program](https://confirm.udacity.com/ENGK6SFY)
 
 **🛠 Skills:** My key languages are **C#**, **Python** and **PHP**. On a daily basis I architect with web Apps, REST APIs, tests, general optimizations and learning. About storage/messages, I'm normally using Microsoft SQL Server, PostgreSQL, MySQL, SQLite.
 
@@ -51,7 +53,7 @@ _At the moment I'm trying GraphQL with ASP.net Core, and already testing out Ang
 
     After having some experience modernizing large legacy code bases, I'd say it's much better to use ready packages than hand-made code, even if you can do a better job.
 
-    p.s.: I'm still trying to swallow micro-dependencies (hello `node_modules`), but well, as long as it saves you some lines of code, it should be ok...
+    p.s.: I'm currently involved with an Open source project where I am the lead for the testers testing the Backend API's(Python - Flask) and as well the frontend scripts(ReactJS)
 
 - **Slow vs fast languages:** I enjoy using the fastest language available, but in the end processing speed is overrated. For general applications, what really matter is having an effective data transfer/structure, as the key to performance is avoiding/delaying/throttling the resource usage.
 
