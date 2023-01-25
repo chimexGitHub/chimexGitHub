@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About Me 
 
-🤵 Software engineer with +7 years of experience (first job in ~2012), check out my [LinkedIn](https://linkedin.com/okekechimezieglory) or [CV](https://drive.google.com/file/d/1qEh7xj58phC4DnlchxmTReNbzk19kVPh/view?usp=sharin) or [Portfolio] for more professional information.
+🤵 Software engineer with +7 years of experience (first job in ~2012), check out my [LinkedIn](https://linkedin.com/okekechimezieglory) or [CV](https://drive.google.com/file/d/qEh7xj58phC4DnlchxmTReNbzk19kVPh/view?usp=sharing) or [Portfolio] for more professional information.
 
 I'm a persistent hardhead (I'll try again and again, until I succeed!), **natural saver**, proactive, challenge lover, bug hunter, keyboard banger, father of many like father Abraham (🔥🧊), pencil and paint artist, lover of poetry and spoken word, a poet as well as Christ is one. 🍨
 
