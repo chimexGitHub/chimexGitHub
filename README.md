@@ -22,7 +22,7 @@ I'm a persistent hardhead (I'll try again and again, until I succeed!), **natura
 
  These little pieces of text have the power to transcend my own existence 😵
 
-**💼 Work:** formerly Software Engineer at [Lloydant](https://www.lloydant.com/)
+**💼 Work:** formerly Software Engineer at [Lloydant](https://www.lloydant.com/) and [Jackocoins](https://www.jackocoins.com/)
 
 **🛠 Certification:** ALX-T Full Stack Developer [Udacity Nanodegree Program](https://confirm.udacity.com/ENGK6SFY)
 
